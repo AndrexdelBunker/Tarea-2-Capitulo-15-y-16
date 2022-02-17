@@ -57,6 +57,11 @@ Entender el funcionamiento de los inductores y bobinas en la electronica moderna
 
 ![image](https://user-images.githubusercontent.com/93835587/154583325-b0369148-b0f3-4117-96e8-de010ecdaee0.png)
 
+Tenemos las siguientes respuestas
+
+![image](https://user-images.githubusercontent.com/93835587/154586824-80294f1c-e589-4ca5-8926-d14b68e6b5c2.png)
+
+
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como
 rectangular.
 
