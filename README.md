@@ -42,6 +42,54 @@ Entender el funcionamiento de los inductores y bobinas en la electronica moderna
 
 **Capitulo 15**
 
+3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
+
+(a) 3,j5 ,(b)-7,j1 , (c)-10,-j10
+
+7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+15. Realice las siguientes sustracciones
+
+![image](https://user-images.githubusercontent.com/93835587/154583325-b0369148-b0f3-4117-96e8-de010ecdaee0.png)
+
+21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como
+rectangular.
+
+![image](https://user-images.githubusercontent.com/93835587/154583358-93e754f5-a90c-4163-814f-9990c4031b55.png)
+
+27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/93835587/154583481-1fd4b0cc-bed1-4603-acec-75e9472f6024.png)
+
+33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90
+para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot
+aparece adelantada con respecto a Vs).
+
+![image](https://user-images.githubusercontent.com/93835587/154583523-30591c18-5686-41c8-a3ec-13b1f8c83df5.png)
+
+
+39. Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f =1 kHz.
+
+![image](https://user-images.githubusercontent.com/93835587/154583563-09d2e0da-0885-418f-92d4-16b406b13e85.png)
+
+
+45. Para el circuito de la figura 15-97, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/93835587/154583600-de0dea1b-8bfe-44a4-af35-300755ae69a2.png)
+
+
+51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
+
+![image](https://user-images.githubusercontent.com/93835587/154583634-a1721ed7-708b-4f28-bc75-64308bce7ca8.png)
+
+57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
+potencia aparente.
+
+63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+
+![image](https://user-images.githubusercontent.com/93835587/154583690-4c22773c-6ba1-498e-8c51-694404943e46.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
