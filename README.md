@@ -13,7 +13,7 @@
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
 **FECHA DE ENTREGA**
-* 24/12/2021
+* 18/02/2022
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,6 +45,8 @@ Entender el funcionamiento de los inductores y bobinas en la electronica moderna
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
 
 (a) 3,j5 ,(b)-7,j1 , (c)-10,-j10
+
+![image](https://user-images.githubusercontent.com/93835587/154585265-8abc9db9-48b6-4f16-950e-7d4253bd96fb.png)
 
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
