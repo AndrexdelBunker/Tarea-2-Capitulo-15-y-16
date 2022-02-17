@@ -67,6 +67,9 @@ rectangular.
 
 ![image](https://user-images.githubusercontent.com/93835587/154583358-93e754f5-a90c-4163-814f-9990c4031b55.png)
 
+![image](https://user-images.githubusercontent.com/93835587/154590775-6f3c8514-0c94-4563-81db-baafe2f4f055.png)
+
+
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
 
 ![image](https://user-images.githubusercontent.com/93835587/154583481-1fd4b0cc-bed1-4603-acec-75e9472f6024.png)
