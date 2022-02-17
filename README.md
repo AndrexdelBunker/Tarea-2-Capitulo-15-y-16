@@ -95,6 +95,38 @@ potencia aparente.
 
 **Capitulo 16**
 
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/93835587/154583974-0db46724-ee86-44e3-9f24-a2db9c4038c7.png)
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
+la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/93835587/154584041-3a12e08c-4667-426e-a717-74c78ae14332.png)
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+(a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93835587/154584091-a23b1cca-0446-40b1-a2bf-8d539188cf11.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93835587/154584157-8a8ae8eb-cb6c-4ac0-bd97-8c6d9f62b8fc.png)
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace
+el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/93835587/154584241-a0797e10-994a-4ae4-ade5-06b85e5e56d4.png)
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
+salida en el circuito de la figura 16-71
+
+![image](https://user-images.githubusercontent.com/93835587/154584300-a653379d-b3b6-4bb3-b0d8-4682ed6174d4.png)
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/93835587/154584425-c3c2317f-1559-47d8-8fcf-a7267e1a30e3.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
