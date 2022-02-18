@@ -19,7 +19,7 @@
 
 **1. OBJETIVOS**
 
-Determinar lso conceptos alrededor de los inductores y bobinas que se encuentran enm el campo de la electronica como componentes de corriente DC que permiten la emicion y almacenamiento de corriente para transmitir pulsacines o crear campos electricos que desarrollan en si mismos la electronica moderna.
+Determinar lOS conceptos alrededor de los CIRCUITOS RC que se encuentran enm el campo de la electronica como componentes de corriente y voltaje que permiten la emicion y almacenamiento de corriente para transmitir pulsacines o crear campos electricos que desarrollan en si mismos la electronica moderna.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Determinar lso conceptos alrededor de los inductores y bobinas que se encuentran
 
 Completar los conocimientos sobre circuitos usadndo los componentes revisdados en las unidades previas 
 
-Entender el funcionamiento de los inductores y bobinas en la electronica moderna.
+Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,6 +36,7 @@ Entender el funcionamiento de los inductores y bobinas en la electronica moderna
 
 **2.MARCO TEÓRICO**
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93835587/154593363-20b19534-66e7-4aea-99ec-e8c817eb7a13.jpeg)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
