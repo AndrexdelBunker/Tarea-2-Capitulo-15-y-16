@@ -75,6 +75,8 @@ rectangular.
 
 ![image](https://user-images.githubusercontent.com/93835587/154583481-1fd4b0cc-bed1-4603-acec-75e9472f6024.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155038189-1df30a52-322d-46a3-8a3d-0ca4b50a88d5.png)
+
 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90
 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot
 aparece adelantada con respecto a Vs).
