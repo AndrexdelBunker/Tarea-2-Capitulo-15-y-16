@@ -105,10 +105,6 @@ aparece adelantada con respecto a Vs).
 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
-63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
-
-![image](https://user-images.githubusercontent.com/93835587/154583690-4c22773c-6ba1-498e-8c51-694404943e46.png)
-
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
