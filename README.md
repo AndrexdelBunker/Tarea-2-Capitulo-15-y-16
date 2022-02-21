@@ -49,6 +49,8 @@ Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 
 ![image](https://user-images.githubusercontent.com/93835587/154585265-8abc9db9-48b6-4f16-950e-7d4253bd96fb.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155038526-3636074e-1647-431b-aa47-86fdd0acca9b.png)
+
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
 ![image](https://user-images.githubusercontent.com/93835587/154586023-3e4f2ad3-6c49-41e6-b0f4-7cd87ce50574.png)
