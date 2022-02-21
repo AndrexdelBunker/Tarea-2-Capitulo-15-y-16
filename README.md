@@ -49,8 +49,6 @@ Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 
 ![image](https://user-images.githubusercontent.com/93835587/154585265-8abc9db9-48b6-4f16-950e-7d4253bd96fb.png)
 
-![image](https://user-images.githubusercontent.com/93835587/155038526-3636074e-1647-431b-aa47-86fdd0acca9b.png)
-
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
 ![image](https://user-images.githubusercontent.com/93835587/154586023-3e4f2ad3-6c49-41e6-b0f4-7cd87ce50574.png)
@@ -116,6 +114,8 @@ potencia aparente.
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![image](https://user-images.githubusercontent.com/93835587/154583974-0db46724-ee86-44e3-9f24-a2db9c4038c7.png)
+
+![image](https://user-images.githubusercontent.com/93835587/155038589-b612fd2e-5832-4d63-badd-495d5c771163.png)
 
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
 la figura 16-57.
