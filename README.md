@@ -89,6 +89,7 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/93835587/154583563-09d2e0da-0885-418f-92d4-16b406b13e85.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155035434-dd128ccf-2321-404d-ac3e-dc0c772f5e96.png)
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
