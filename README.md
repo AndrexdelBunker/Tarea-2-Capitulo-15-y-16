@@ -136,6 +136,8 @@ el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93835587/154584241-a0797e10-994a-4ae4-ade5-06b85e5e56d4.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155035590-92cf23d8-0ee9-4321-a04c-509b3e343dab.png)
+
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
 salida en el circuito de la figura 16-71
 
