@@ -81,6 +81,9 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/93835587/154583523-30591c18-5686-41c8-a3ec-13b1f8c83df5.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155034773-5197414f-15ab-4ca5-8e76-47ccb6d1e9da.png)
+
+
 
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f =1 kHz.
 
