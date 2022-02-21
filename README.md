@@ -105,6 +105,7 @@ aparece adelantada con respecto a Vs).
 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
+![image](https://user-images.githubusercontent.com/93835587/155038959-1e98b46d-7401-4976-be98-5a19b1b28510.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
