@@ -122,6 +122,7 @@ potencia aparente.
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
 la figura 16-57.
 
+
 ![image](https://user-images.githubusercontent.com/93835587/154584041-3a12e08c-4667-426e-a717-74c78ae14332.png)
 
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
@@ -129,9 +130,14 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93835587/154584091-a23b1cca-0446-40b1-a2bf-8d539188cf11.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155038358-83c37978-5865-4817-a046-282e064255ce.png)
+
+
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93835587/154584157-8a8ae8eb-cb6c-4ac0-bd97-8c6d9f62b8fc.png)
+
+![image](https://user-images.githubusercontent.com/93835587/155038317-8d2512c2-80af-4add-a67b-913faed1da5c.png)
 
 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace
 el diagrama fasorial de voltaje.
