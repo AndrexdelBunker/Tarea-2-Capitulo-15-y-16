@@ -97,10 +97,13 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/93835587/154583600-de0dea1b-8bfe-44a4-af35-300755ae69a2.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155039102-db8a34ef-2d58-414c-9fb5-d7a75c6a6541.png)
 
 51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
 
 ![image](https://user-images.githubusercontent.com/93835587/154583634-a1721ed7-708b-4f28-bc75-64308bce7ca8.png)
+
+![image](https://user-images.githubusercontent.com/93835587/155039077-e9e043fd-25ab-4eea-b0ae-bea716b413ab.png)
 
 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
