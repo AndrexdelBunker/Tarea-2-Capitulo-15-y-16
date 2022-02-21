@@ -143,6 +143,8 @@ salida en el circuito de la figura 16-71
 
 ![image](https://user-images.githubusercontent.com/93835587/154584300-a653379d-b3b6-4bb3-b0d8-4682ed6174d4.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155037620-8105504b-3760-4afb-a350-957b9cc920cf.png)
+
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
 
 ![image](https://user-images.githubusercontent.com/93835587/154584425-c3c2317f-1559-47d8-8fcf-a7267e1a30e3.png)
