@@ -288,7 +288,6 @@ el diagrama fasorial de voltaje.
 ![image](https://user-images.githubusercontent.com/93835533/155211366-fa961385-769a-413a-bbd5-d11c77e99ba9.png)
 
 
-
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
 salida en el circuito de la figura 16-71
 
@@ -310,6 +309,23 @@ salida en el circuito de la figura 16-71
 ![image](https://user-images.githubusercontent.com/93835587/154584425-c3c2317f-1559-47d8-8fcf-a7267e1a30e3.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155036556-4caf6fd0-bff0-499d-8e4b-9fd625b6fa1b.png)
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz. 
+
+![image](https://user-images.githubusercontent.com/93835533/155211871-96b44b21-632f-4f59-8db4-1e633a12bdd7.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212039-20974d17-e456-4e20-8c1c-0b41eca631af.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212195-8c86c4bc-beaf-43bc-a82d-d1e20877e694.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212053-d4c3cbc3-6176-4b61-a88b-3d42328457a1.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212073-03f3f795-e760-410e-9faf-05973528f37a.png)
+
+
+
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
