@@ -255,12 +255,22 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93835587/155038358-83c37978-5865-4817-a046-282e064255ce.png)
 
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93835533/155211078-41ea0fec-0af6-4afc-9a93-c94667f63043.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155211235-ea2c8577-b368-4694-b29b-b7e2aab651eb.png)
+
 
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93835587/154584157-8a8ae8eb-cb6c-4ac0-bd97-8c6d9f62b8fc.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155038317-8d2512c2-80af-4add-a67b-913faed1da5c.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/93835533/155211294-b37e7174-0510-4495-9ea4-7a2f35e4dd33.png)
 
 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace
 el diagrama fasorial de voltaje.
@@ -269,12 +279,31 @@ el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93835587/155035590-92cf23d8-0ee9-4321-a04c-509b3e343dab.png)
 
+31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a). Itot 
+(b). VL1
+(c). VAB
+
+![image](https://user-images.githubusercontent.com/93835533/155211366-fa961385-769a-413a-bbd5-d11c77e99ba9.png)
+
+
+
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
 salida en el circuito de la figura 16-71
 
 ![image](https://user-images.githubusercontent.com/93835587/154584300-a653379d-b3b6-4bb3-b0d8-4682ed6174d4.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155037620-8105504b-3760-4afb-a350-957b9cc920cf.png)
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/93835533/155211441-154ce546-fbd8-4a2e-a1a8-7c8cadc722be.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155211640-fc3e008e-d6a7-4a3b-99d0-24ec89951dc3.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155211655-9b7798c5-594d-4b21-ab04-68ef9b76f3eb.png)
+
 
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
 
