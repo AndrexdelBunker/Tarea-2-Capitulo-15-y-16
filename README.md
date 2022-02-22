@@ -43,6 +43,11 @@ Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 
 **Capitulo 15**
 
+1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+
+Una cantidad indicada mediante números complejos posee magnitud y ángulo, esto permite realizar operaciones matemáticas básicas tales como sumar, restar, multiplicar y dividir.
+
+
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
 
 (a) 3,j5 ,(b)-7,j1 , (c)-10,-j10
@@ -52,6 +57,20 @@ Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
 ![image](https://user-images.githubusercontent.com/93835587/154586023-3e4f2ad3-6c49-41e6-b0f4-7cd87ce50574.png)
+
+13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
+![image](https://user-images.githubusercontent.com/93835533/155207202-f535addd-9c76-4c93-b99a-e16fc72e8e52.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155207211-24974c77-361f-4bee-8502-5b10a0468315.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155207234-97ba11fb-7b28-408d-a84e-c79bcc2c290a.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155207252-e356b9e3-0127-48f9-85c5-f52357b479e3.png)
+
+
+
+
 
 
 15. Realice las siguientes sustracciones
