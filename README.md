@@ -197,6 +197,18 @@ potencia aparente.
 
 ![image](https://user-images.githubusercontent.com/93835587/155038959-1e98b46d-7401-4976-be98-5a19b1b28510.png)
 
+67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![image](https://user-images.githubusercontent.com/93835533/155210069-eb3363be-6e37-4292-9b24-afabd46010d8.png)
+
+(a)	R1 abierto
+
+Ningún voltaje de salida debido a que todo el voltaje se queda en R1, además R1 está en serie por lo cual la corriente no pasará.
+
+(b)	R2 abierto 
+
+![image](https://user-images.githubusercontent.com/93835533/155210341-2444e393-003a-4542-8f47-64f6d4c2ed28.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
