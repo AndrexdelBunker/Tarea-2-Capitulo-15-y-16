@@ -151,13 +151,48 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/93835587/155039102-db8a34ef-2d58-414c-9fb5-d7a75c6a6541.png)
 
-51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
+49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/93835533/155209140-24097733-c210-4ecf-8bb3-8655565050d4.png)
+
+55. Encuentre la corriente a través de cada componente en la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/93835533/155209170-efffa07c-2146-450e-9a3f-3561db2af7c9.png)
+
+57. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente. 
 
 ![image](https://user-images.githubusercontent.com/93835587/154583634-a1721ed7-708b-4f28-bc75-64308bce7ca8.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155039077-e9e043fd-25ab-4eea-b0ae-bea716b413ab.png)
 
-57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
+61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω y factor de potencia de 0.95.
+
+(a) ¿Cuánta corriente consume cada carga?
+
+![image](https://user-images.githubusercontent.com/93835533/155209834-5aa26c4e-7cec-42c3-be5a-2abfe0f66d60.png)
+
+(b) ¿Cuál es la potencia reactiva en cada carga?
+
+![image](https://user-images.githubusercontent.com/93835533/155209865-442eca9e-9d36-48b9-8be6-97167d13083c.png)
+
+
+(c) ¿Cuál es la potencia real en cada carga? 
+
+![image](https://user-images.githubusercontent.com/93835533/155209882-b12a8dde-f045-4a2f-bfe6-ced7148bc914.png)
+
+
+(d) ¿Cuál es la potencia aparente en cada carga?
+
+![image](https://user-images.githubusercontent.com/93835533/155209900-206ed241-986b-4679-9622-5099ef539daf.png)
+
+
+(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+
+La carga A 
+
+
+
+65. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
 ![image](https://user-images.githubusercontent.com/93835587/155038959-1e98b46d-7401-4976-be98-5a19b1b28510.png)
