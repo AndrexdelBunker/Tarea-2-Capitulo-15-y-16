@@ -326,6 +326,14 @@ salida en el circuito de la figura 16-71
 
 
 
+![image](https://user-images.githubusercontent.com/93835533/155212650-af2ced6e-40e1-4b57-89d2-35ae2fe2c00b.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212741-948baab6-6a9c-4353-b407-1e6aff610196.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155212756-e08d19ed-b81e-412b-bfc8-1da87fe517d7.png)
+
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
