@@ -69,10 +69,6 @@ Una cantidad indicada mediante números complejos posee magnitud y ángulo, esto
 ![image](https://user-images.githubusercontent.com/93835533/155207252-e356b9e3-0127-48f9-85c5-f52357b479e3.png)
 
 
-
-
-
-
 15. Realice las siguientes sustracciones
 
 ![image](https://user-images.githubusercontent.com/93835587/154583325-b0369148-b0f3-4117-96e8-de010ecdaee0.png)
@@ -81,6 +77,10 @@ Tenemos las siguientes respuestas
 
 ![image](https://user-images.githubusercontent.com/93835587/154586824-80294f1c-e589-4ca5-8926-d14b68e6b5c2.png)
 
+19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+Tanto la frecuencia del voltaje a través del resistor como a través del capacitor son 8kHz debido a que cuando se aplica un voltaje sinusoidal a un circuito RC dispuesto en serie, las caídas de voltaje y de corriente resultantes en el circuito son también sinusoidales.
+
 
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como
 rectangular.
@@ -88,6 +88,15 @@ rectangular.
 ![image](https://user-images.githubusercontent.com/93835587/154583358-93e754f5-a90c-4163-814f-9990c4031b55.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/154590775-6f3c8514-0c94-4563-81db-baafe2f4f055.png)
+
+25. Determine los valores de R y Xc en un circuito RC en serie para los siguientes valores de impedancia total:
+
+![image](https://user-images.githubusercontent.com/93835533/155208100-13afc28e-c88d-4bbc-ac83-302f01e57ef8.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155208120-6c7ffa96-da0b-4f9e-8285-245b052a165f.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155208152-0b45b0f0-01ec-430a-9beb-596c21ea1b78.png)
+
 
 
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
