@@ -105,6 +105,16 @@ rectangular.
 
 ![image](https://user-images.githubusercontent.com/93835587/155038189-1df30a52-322d-46a3-8a3d-0ca4b50a88d5.png)
 
+31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
+![image](https://user-images.githubusercontent.com/93835533/155208310-f66a2689-84a0-4c47-b023-1dce06825c75.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155208555-b8efaf95-b9ed-469a-971b-0e0588cb839b.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155208568-4910ee4a-d5ff-449a-a2b0-3ba870738c8f.png)
+
+
+
 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90
 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot
 aparece adelantada con respecto a Vs).
@@ -113,6 +123,10 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/93835587/155034773-5197414f-15ab-4ca5-8e76-47ccb6d1e9da.png)
 
+37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/93835533/155208599-c6e1191b-9841-476b-a5c3-8ff2ab99d83d.png)
+
 
 
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f =1 kHz.
@@ -120,6 +134,16 @@ aparece adelantada con respecto a Vs).
 ![image](https://user-images.githubusercontent.com/93835587/154583563-09d2e0da-0885-418f-92d4-16b406b13e85.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155035434-dd128ccf-2321-404d-ac3e-dc0c772f5e96.png)
+
+43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+
+![image](https://user-images.githubusercontent.com/93835533/155208670-6e5ff20d-4655-48d6-8bf1-1772e3744e85.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155208987-fd572041-cdc1-4049-b8d1-0a7d7c9875b4.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155209001-eee78fc0-b95b-4cdc-a570-3fb064638443.png)
+
+
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
