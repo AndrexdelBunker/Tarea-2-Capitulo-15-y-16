@@ -214,17 +214,39 @@ Ningún voltaje de salida debido a que todo el voltaje se queda en R1, además R
 
 **Capitulo 16**
 
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?.
+
+
+La frecuencia para I, VR y VL siempre va ser la misma 15 kHz debido a que el voltaje de entrada es sinusoidal.
+
+
+
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![image](https://user-images.githubusercontent.com/93835587/154583974-0db46724-ee86-44e3-9f24-a2db9c4038c7.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/155038589-b612fd2e-5832-4d63-badd-495d5c771163.png)
 
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/93835533/155210617-c6d4300a-8f57-4847-9e18-bb883112b664.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155210693-76b5457a-b8e5-4f6b-86d1-1ba5bac74037.png)
+
+
+
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
 la figura 16-57.
 
 
 ![image](https://user-images.githubusercontent.com/93835587/154584041-3a12e08c-4667-426e-a717-74c78ae14332.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye theta?
+
+![image](https://user-images.githubusercontent.com/93835533/155210740-329e1725-bf58-4911-bbef-31bf961f62d0.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155210912-9a409871-7658-440b-b691-8286ca0c52d4.png)
+
 
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
 (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
